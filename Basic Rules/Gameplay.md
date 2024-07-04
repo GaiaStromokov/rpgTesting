@@ -22,7 +22,9 @@ The following options can upgrade/degrade a dice
 	- You will gain back half of the points spent on the skill, removing the same amount of ranks, then you will upgrade the dice to the next tiers
 	- D6 -- D8 -- D10 -- D12
 - Weapons. 
-	- If a weapon is made for a size abov
+	- If a weapon is made for a size above or below you, either upgrade or degrade by 1 dice tier
+	- 2 sizes up requires might checks
+	- 3 sizes up is impossible without magical means
 
 
 
