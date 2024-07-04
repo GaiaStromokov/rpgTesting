@@ -18,7 +18,11 @@ advantage and disadvantage is given in 3 tiers
 #### Upgrading dice
 The following options can upgrade/degrade a dice
 - Ranks
-	- 
+	- At every double starting at 5; 5,10,20,40,80...
+	- You will gain back half of the points spent on the skill, removing the same amount of ranks, then you will upgrade the dice to the next tiers
+	- D6 -- D8 -- D10 -- D12
+- Weapons. 
+	- If a weapon is made for a size abov
 
 
 
