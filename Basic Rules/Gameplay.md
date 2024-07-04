@@ -1,25 +1,23 @@
-All rolls are rolled via 2d6
+#### Rolling
+- All rolls are rolled via 2d6
 Boons/banes will either
-Add a dice
-''
+- Add/subtract dice
+- Add/subtract a flat number
+- Upgrade/degrade a rolled dice
 
-on double ones #checkthis 
-if you roll a 6, the dice will explode, automatically giving you another roll of the dice
-this can stack, disadvantage/curses/injury will take away dice
-if you would ever roll less then 1 dice, you instead roll 1 dice and it cannot explode
+#### Crits
+- There are no crit successes, just degrees of success as successive dice will explode and add another dice
+- Snake eyes, two 1's are bad luck, resultng in a immediate negative consequence for the roll depending on the type
 
-
+#### Advantage
 advantage and disadvantage is given in 3 tiers
-general= +- 1 dice
-large= += 2 dice
-massive= +- 4
+- general= +- 1 dice
+- large= += 2 dice
+- massive= +- 4
 
-upgrading/degrading dice
-certain things can determine what dice you are rolling
-
-weapons: while the majority use d6's some will instead have you roll one or both dice as a greater/lesser dice
-a dagger for example uses 2d4, while a great maul may use 2d10
-
+#### Upgrading dice
+The following options can upgrade/degrade a dice
+Specific ranks, once 10 ranks/points has been put into a certain skill, you will take away half of the invested points 
 
 
 
