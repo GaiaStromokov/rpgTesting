@@ -1,5 +1,7 @@
 All rolls are rolled via 2d6
-bonuses will either add additional dice, upgrade a dice, or give a flat bonus to the rolls
+Boons/banes will either
+Add a dice
+''
 
 on double ones #checkthis 
 if you roll a 6, the dice will explode, automatically giving you another roll of the dice
