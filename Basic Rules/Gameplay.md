@@ -17,7 +17,8 @@ advantage and disadvantage is given in 3 tiers
 
 #### Upgrading dice
 The following options can upgrade/degrade a dice
-Specific ranks, once 10 ranks/points has been put into a certain skill, you will take away half of the invested points 
+- Ranks
+	- 
 
 
 
