@@ -8,3 +8,54 @@ Clerics similar to wizards gain a research/taught form of magic that others lack
 
 Bards being masters of sound and magic, may learn a great many spells, however those requiring somatic components are greatly empowered and gain more options that others, not being able to sense the sound in the spells do
 
+
+
+Spell casting is broken into tags, there will be a list of predefined tags at the end of the document
+
+
+##### Magic type
+Protection
+Summoning
+Portent
+Enchantment
+Evocation
+Illusion
+Necromancy
+Transmutation
+##### Effect type
+Damage
+Healing
+Control
+Utility
+Buff
+Debuff
+##### Aoe
+Single Target
+Multi-Target
+Area of Effect (Circle, Cone, Line, Cube, etc.)
+##### Target
+##### Range
+Self
+Touch
+Ranged (with specific ranges noted)
+Sight
+##### Duration
+Instantaneous
+Concentration (with time duration)
+Temporary (with time duration)
+Permanent
+##### Save
+
+##### Damage Type
+>[!note]
+>
+
+##### Special effect
+
+##### Component
+
+
+
+
+
+
