@@ -13,6 +13,31 @@ Bards being masters of sound and magic, may learn a great many spells, however t
 Spell casting is broken into tags, there will be a list of predefined tags at the end of the document
 
 
+Magic takes the form of 2 different kinds of magic
+direct evocation and manifestation
+
+Evocation is the act of directly pulling magic from the world, shaping it to your whim to then act back on the world, examples would include bouts of fire, summoned creatures, balls of lightning, spiritual weapons and the like. While still possible in this world and system, the knowledge is very limited as in the current era, evoking magic takes the kinetic energy used in the evocation directly from the reserves of the mage, making it very costly.
+
+Manifestation is the primary form of magic, instead of shaping the world directly. You instead instill powerfull beleifs in the minds of allies and enemies that certain effects have come upon them, leading their bodies to react as they would if it were really happening. And because it is solely a contest of mind this is the primary way people spell cast. It is akin to a mass magic psycosis
+It might be difficult to truly cast a fire ball on the enemy as you would need a energy supply the size of an elephant, but coating your enemies mind in the lie that his lungs burn from the inside still causes such pain against them
+
+()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### Magic type
 Protection
 Summoning
@@ -34,6 +59,10 @@ Single Target
 Multi-Target
 Area of Effect (Circle, Cone, Line, Cube, etc.)
 ##### Target
+Creature
+Object
+Area
+Self
 ##### Range
 Self
 Touch
@@ -48,12 +77,25 @@ Permanent
 
 ##### Damage Type
 >[!note]
->
+>Refer to [[Damage types]]
 
 ##### Special effect
-
+Knockback
+Pull
+Stun
+Charm
+Fear
+Restrained
+Paralyzed
+Petrified
+Polymorph
+Invisible
+Teleportation
+Summoning
 ##### Component
-
+Verbal
+Sematic
+Item
 
 
 
