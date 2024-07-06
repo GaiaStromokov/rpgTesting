@@ -53,7 +53,7 @@ In this world, the principle of equivalent exchange makes magic a taxing endeavo
 
 
 #### **SpellWrite**
-Spellwrites, or reskinned bards interpret magic as a song itself, using the innate power in the 
+Spellwrites, or reskinned bards interpret magic as a song itself, instead of shaping raw aether with the mind of a mage, they are insteead trained to sense the currents of magic, the weave going throughout the world, and with specific notes only they can hear or play, amplify certain parts of the weave, a cacophany of such notes leading to the wanted effect, a chorus of either blessings or deafening lions roars
 
 
 
