@@ -60,11 +60,15 @@ Bards primary ability in combat are called songs
 Bards initiate songs using their own action playing a base that gives a static effect
 Bards then play the song using reactions to the combat
 
-Sweet notes: on ally succeeding in an attack, increase damage by 1
+Sweet notes: on ally succeeding in an attack, +1 damage
 Sour notes: on ally getting hit successfully, ally gains + on next hit
-Harmonic notes
-Rhythmic notes
-Melodic
+Harmonic notes: on ally spellcast, decrease resource use by 1
+Rhythmic notes: on ally dodge success: gain 1 hp
+Melodic: on enemy attacked by spell, gain +1 to dodge
+
+Song length is dependant on allies
+In 1 turn rotation, each note can be played twice, none in succession
+If each turn 
 
 
 
