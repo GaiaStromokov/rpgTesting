@@ -21,32 +21,21 @@ Evocation is the act of directly pulling magic from the world, shaping it to you
 Manifestation is the primary form of magic, instead of shaping the world directly. You instead instill powerfull beleifs in the minds of allies and enemies that certain effects have come upon them, leading their bodies to react as they would if it were really happening. And because it is solely a contest of mind this is the primary way people spell cast. It is akin to a mass magic psycosis
 It might be difficult to truly cast a fire ball on the enemy as you would need a energy supply the size of an elephant, but coating your enemies mind in the lie that his lungs burn from the inside still causes such pain against them
 
-()
 
+##### Spell Type
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### Magic type
-Protection
-Summoning
-Portent
+###### Manifest
 Enchantment
-Evocation
 Illusion
-Necromancy
+Portent
+###### Evoke
 Transmutation
+Evocation
+
+###### Summoning
+
+
+
 ##### Effect type
 Damage
 Healing
