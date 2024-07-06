@@ -31,7 +31,9 @@ Spellwrites, or reskinned bards interpret magic as a song itself, instead of sha
 
 **1. Song Initiation**
 	Songs act like spells for the bard. While they may know many songs for the people, those made specifically for magic are more rare leading to the majority of bards having only around 10 (they are basically spells)
-	Each day they choose a number of songs to fully commit to memory and may use each once before needing to rest t
+	Each day they choose a number of songs to fully commit to memory and may use each once before needing to rest their voice. On a short rest they may regain x ammount
+
+Song of
 
 **2. Reactive Notes: Played on Ally or Enemy Actions** These notes are triggered in response to specific actions taken by allies or enemies during combat, each type offering unique effects.
 
