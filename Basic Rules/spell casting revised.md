@@ -1,25 +1,59 @@
-Spell casting in this world is innately difficult, because of set in stone rules, it takes equivalent exchange of kinetic energy to manifest magic into the world, which statistically becomes so taxing on the human body that without great reserves of magic it is not feasible to shape raw magic. Thus classes came into being
-Each with a way to circumvent casting costs
+### The Asymmetric Magic System
 
-###### Scribe
-One who researches the language of magic with the aim of deriving enough knowledge of it so that they can circumvent casting costs.
+In this world, the principle of equivalent exchange makes magic a taxing endeavor. To circumvent the high costs, different classes of spellcasters have developed unique ways to harness and cast magic, each with its own mechanics and gameplay experience.
 
-Their spells primarily aim at being as optimized as possible, sacrificing innate power for lots of small spells that add up to the same effect, or using carefull wording to ensure that large spells have certain limitations to reduce use. Similar to using less infill on a print to get the same shape.
+#### **Scribe**
 
-###### Innate
-Innates are as the title implies, people blessed by a connection to some form of highly advanced magical race, giving them access too a system known as inheritance. Where they instead of drawing on their own innate power, give small offerings to a greater bloodline in order to call in boons to have the same effect. However because it is tied to a bloodline and not the study of the character themselves, they are limited to the kinds of magic that their bloodline has given them
+**Masters of Magical Language and Optimization**
 
-###### Priests
-Priests are similar to scribes, however their magic is instead gained by the reading and worship of their scripture. The manifestation and power of their prayer giving them access too insights, spell like abilities that allows them to call on the innate power of their belief and have it be summoned by their deity instead of manifesting anything themselves
+**Mechanics:**
+
+- **Spell Optimization:** Scribes cast multiple small spells instead of one large one, optimizing the overall effect. This involves strategic planning and resource management.
+- **Careful Wording:** Players choose precise phrasing for spells to reduce energy costs. This can lead to creative problem-solving as they find the best way to word their spells for maximum efficiency.
+- **Versatile Toolset:** Scribes have access to a wide range of minor spells that can be combined in various ways, offering flexibility and adaptability in different situations.
+
+**Gameplay Feel:** Playing a Scribe feels like being a meticulous planner and strategist. You spend time crafting the perfect combination of spells and carefully wording them to conserve energy, making every casting feel like solving a puzzle.
+
+#### **Innate**
+
+**Bearers of Magical Bloodlines**
+
+**Mechanics:**
+
+- **Inheritance Rituals:** Innates perform rituals or make small offerings to their ancestral spirits to gain boons. This involves choosing the right offering to invoke specific powers.
+- **Bloodline-Specific Magic:** The spells and abilities available to Innates are limited to those of their bloodline, making them highly specialized. This includes passive traits and active spells.
+- **Limited Versatility:** While their powers are potent, they are constrained by the nature of their lineage, requiring players to think creatively within those limits.
+
+**Gameplay Feel:** Playing an Innate feels like channeling ancient power and honoring a legacy. You carefully manage your rituals and offerings to maximize the benefits of your bloodline, making strategic choices based on your heritage's strengths.
+
+#### **Priest**
+
+**Conduits of Divine Power**
+
+**Mechanics:**
+
+- **Faith-Based Casting:** Priests cast spells through prayer and devotion, relying on divine intervention. This means spells are more powerful and cost-effective when the priest's faith is strong.
+- **Divine Insights:** Players receive spell-like abilities through visions and prayers, often requiring role-playing elements like chanting or performing rituals.
+- **Piety Mechanics:** The strength and variety of spells depend on the priest's level of devotion and adherence to their deity's principles, adding a layer of moral and ethical decision-making.
+
+**Gameplay Feel:** Playing a Priest feels like being a devoted servant of the divine, constantly balancing faith and action. Your spells are powerful and deeply tied to your role-playing choices, emphasizing the importance of maintaining your piety.
+
+#### **WildKin**
+
+**Keepers of the Old Faith**
+
+**Mechanics:**
+
+- **Rituals and Offerings:** Druids perform regular rituals and make offerings to natural spirits to gain temporary boons. This involves timing and planning rituals to maintain their powers.
+- **Innate Boons:** These boons enhance the Druid's abilities, such as shape-shifting, elemental control, or enhanced physical traits. The powers are temporary and require ongoing maintenance.
+- **Temporal Magic:** The duration of the boons varies, requiring Druids to continuously interact with nature and perform rituals, creating a dynamic and immersive gameplay experience.
+
+**Gameplay Feel:** Playing a Druid feels like being a guardian of nature, constantly interacting with the environment and performing rituals. Your powers are temporary but potent, encouraging you to stay connected to the natural world and its cycles.
 
 
-###### Druids
-Of the old faith, druids have become so invested and enraptured by the old ways that many still use the original magic of sacrifice. Druids give blood sacrifices to their choice of spirit every x days., or day. The level of sacrifice and to whom allowing them a number of innate boons for that time period, allowing them to be more of a powered being rather then one innately casting spells. For example, giving blood to a thorn god may give one the ability to grow them from ones body, or shape change into a wolf or a snake depending on the spirit.
 
-
-
-
-
+#### **SpellWrite**
+Spellwrites, or reskinned bards interpret magic as a song itself, using the innate power in the 
 
 
 
