@@ -55,21 +55,32 @@ In this world, the principle of equivalent exchange makes magic a taxing endeavo
 #### **SpellWrite**
 Spellwrites, or reskinned bards interpret magic as a song itself, instead of shaping raw aether with the mind of a mage, they are insteead trained to sense the currents of magic, the weave going throughout the world, and with specific notes only they can hear or play, amplify certain parts of the weave, a cacophany of such notes leading to the wanted effect, a chorus of either blessings or deafening lions roars
 
-Note types:
-Bards primary ability in combat are called songs
-Bards initiate songs using their own action playing a base that gives a static effect
-Bards then play the song using reactions to the combat
+**1. Song Initiation**
 
-Sweet notes: on ally succeeding in an attack, +1 damage
-Sour notes: on ally getting hit successfully, ally gains + on next hit
-Harmonic notes: on ally spellcast, decrease resource use by 1
-Rhythmic notes: on ally dodge success: gain 1 hp
-Melodic: on enemy attacked by spell, gain +1 to dodge
+- **Base Song:** At the start of combat or when initiating a new song, the SpellWrite plays a base note that provides a static effect, establishing the foundation for the song's potential.
 
-Song length is dependant on allies
-In 1 turn rotation, each note can be played twice, none in succession
-If each turn 
+**2. Reactive Notes: Played on Ally or Enemy Actions** These notes are triggered in response to specific actions taken by allies or enemies during combat, each type offering unique effects.
 
+- **Sweet Notes:**
+    - **Effect:** Triggered when an ally succeeds in an attack, granting +1 bonus damage.
+- **Sour Notes:**
+    
+    - **Effect:** Triggered when an ally is successfully hit, granting a bonus on their next attack.
+- **Harmonic Notes:**
+    
+    - **Effect:** Triggered when an ally casts a spell, reducing the spell's resource cost by 1.
+- **Rhythmic Notes:**
+    
+    - **Effect:** Triggered when an ally successfully dodges an attack, gaining 1 hit point.
+- **Melodic Notes:**
+    
+    - **Effect:** Triggered when an enemy is targeted by a spell, granting +1 bonus to the enemy's next dodge attempt.
+
+**3. Crescendo Effects** After playing a sequence of notes, the accumulated effects crescendo into more potent magical manifestations.
+
+- **Minor Crescendo:** Activated when at least 3 different notes are played in a single turn rotation, enhancing the base song's effects, such as increasing duration or potency of ongoing effects.
+    
+- **Major Crescendo:** Activated when at least 5 different notes are played in a single turn rotation, unleashing a significant augmentation of the base song's effects, potentially affecting multiple targets or areas with enhanced magical prowess.
 
 
 
