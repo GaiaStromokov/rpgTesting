@@ -55,5 +55,18 @@ In this world, the principle of equivalent exchange makes magic a taxing endeavo
 #### **SpellWrite**
 Spellwrites, or reskinned bards interpret magic as a song itself, instead of shaping raw aether with the mind of a mage, they are insteead trained to sense the currents of magic, the weave going throughout the world, and with specific notes only they can hear or play, amplify certain parts of the weave, a cacophany of such notes leading to the wanted effect, a chorus of either blessings or deafening lions roars
 
+Note types:
+Bards primary ability in combat are called songs
+Bards initiate songs using their own action playing a base that gives a static effect
+Bards then play the song using reactions to the combat
+
+Sweet notes: on ally succeeding in an attack, increase damage by 1
+Sour notes: on ally getting hit successfully, ally gains + on next hit
+Harmonic notes
+Rhythmic notes
+Melodic
+
+
+
 
 
