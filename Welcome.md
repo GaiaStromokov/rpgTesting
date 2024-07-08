@@ -1,5 +1,21 @@
-This is your new *vault*.
+Somewhat grimdark
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+Small health pools
+Unified damage, more focus on attacking
 
-When you're ready, delete this note and make the vault your own.
+Race
+	Intrinsic bonuses, spell/feat qualifications
+Background
+	Family ties, backstory, life bonuses
+Profession
+	Tied to class, but can be sperate, what the character does on the day to day
+Class
+	Upgraded melee/spell capabilities, buisness/guild ties, inherent quests
+
+Where you are from
+Who you are
+What you can do
+What you want to do
+
+
+
