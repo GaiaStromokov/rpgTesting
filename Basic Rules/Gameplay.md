@@ -7,7 +7,7 @@ Boons/banes will either
 
 #### Crits
 - There are no crit successes, just degrees of success as successive dice will explode and add another dice
-- Snake eyes, two 1's are bad luck, resultng in a immediate negative consequence for the roll depending on the type
+- Double snake eyes will result in rolling 2 additional dice, however these may not explode
 
 #### Advantage
 advantage and disadvantage is given in 3 tiers
