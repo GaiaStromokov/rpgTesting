@@ -12,15 +12,35 @@ Race
 		Fae
 Background
 	Family ties, backstory, life bonuses
-		High born
-		Low born
-		Cloister
-		Nunnery
-		Sikdu
+		Family profession
+		Class
+		Early life
 Profession
 	Tied to class, but can be sperate, what the character does on the day to day
+		Cook
+		Soldier
+		Guard
+		Scholar
+		Druid
+		Noble
+		Liutenant
+		
+		
 Class
 	Upgraded melee/spell capabilities, buisness/guild ties, inherent quests
+	Soldier-tactical fighter
+	Mercenary-all round fighter
+	Viking-brawling barbarian
+	Skold: holy fighter
+	Outlander-seasoned ranger
+	Druid-wize man of the old faith
+	Innate-blood line of the magus
+	Scribe-spell weavers
+	Bard-bard
+	Clergy: cleric
+	
+	
+	
 
 Where you are from
 Who you are
