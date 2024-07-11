@@ -1,5 +1,0 @@
-Races
-
-Human
-
-Faeling

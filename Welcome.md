@@ -6,10 +6,19 @@ Unified damage, more focus on attacking
 Race
 	Intrinsic bonuses, spell/feat qualifications
 	Human
-		Roman
-		Saxon
-		Isle
-		Fae
+	-
+	Kindred
+	Legion
+	Pale
+	Dwarf
+
+
+
+
+
+
+
+
 Background
 	Family ties, backstory, life bonuses
 		Family profession
