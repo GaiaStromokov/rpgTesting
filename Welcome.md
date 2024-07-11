@@ -14,7 +14,26 @@ Race
  - Pale
 	 - Very similar to dnd elves, these high born aristocrats were a byproduct of extreme devotion to a number of gods, the gods themselves wishing to give the humans an object of devotion and thus made the pale, they are very few for they do not breed. but are seen as messengers of the gods and thus objects of worship. they are closer in comparison to aasimar, with divinely perfect proportions, whatever that may mean in your world.
  - Dwarf
-	 - Small, stout, born of the wyrm
+	 - Small, stout, born of the wyrmlings like in norse lore, these tunneling folk prefer to stay away from global conflicts, many not even realizing there are any folk in the places above their tunnels, their great kingdoms were old before humans evolved, and will be old afterwords, they war and trade in quiet serenity, a few coming up in order to get objects of magic they do not inherintly have. as magic was stripped from them millenia ago
+
+Human
+-life points
+4
+-stat bonus
++1 to a single stat
+-exp bonus
++1 exp when willpower is involved
+-passive
+
+
+
+Human
+-life points
+-stat bonus
+-exp bonus
+-passive
+
+
 
 
 
