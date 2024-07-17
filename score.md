@@ -1,0 +1,7 @@
+# LEADERSHIP: 16
+# MORAL: 7
+
+
+
+
+
