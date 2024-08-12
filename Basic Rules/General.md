@@ -72,7 +72,7 @@ meeting the ac exactly will result in a critical, either doubling damage, or mak
 
 
 
-
+## AVERAGE
 | Total | Increase | Cost |
 | ----- | -------- | ---- |
 | 1     | 1        |      |
@@ -99,6 +99,26 @@ meeting the ac exactly will result in a critical, either doubling damage, or mak
 | 28    | 1        |      |
 | 29    | 1        |      |
 | 31    | 2        |      |
+| 32    | 1        |      |
+| 33    | 1        |      |
+| 36    | 3        |      |
+| 37    | 1        |      |
+| 38    | 1        |      |
+| 39    | 1        |      |
+| 40    | 1        |      |
+## SLOW
+
+| Total | Increase | Cost |
+| ----- | -------- | ---- |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 2        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 2        |      |
 
 
 
