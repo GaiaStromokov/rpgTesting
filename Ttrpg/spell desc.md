@@ -39,7 +39,7 @@
 | Self            | C                               | Self                                                  |     |     |
 | **Duration**    |                                 |                                                       |     |     |
 | Instant<br>     | C                               | 1 turn                                                |     |     |
-| Continuous      | 1L                              | Each turn until save                                  |     |     |
+| Continuous      | 1L                              | Each turn until save ok                               |     |     |
 | Concentration   | 1L+1L/turn                      | Each turn until fail on concentrate                   |     |     |
 | Permanent       | Tbd                             | Either ends on caster death or anti magic field       |     |     |
 | **Type**        |                                 |                                                       |     |     |

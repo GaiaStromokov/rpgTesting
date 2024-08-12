@@ -22,10 +22,9 @@ Human
 -stat bonus
 +1 to a single stat
 -exp bonus
-+1 exp when the roll includes survival
++1 exp when willpower is involved
 -passive
--1 to will checks
-+1 to something
+
 
 
 Human
