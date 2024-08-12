@@ -110,6 +110,24 @@ meeting the ac exactly will result in a critical, either doubling damage, or mak
 
 | Total | Increase | Cost |
 | ----- | -------- | ---- |
+| 1     | 1        |      |
+| 2     | 1        |      |
+| 3     | 1        |      |
+| 4     | 1        |      |
+| 5     | 1        |      |
+| 7     | 2        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 2        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 3        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 1        |      |
 |       | 1        |      |
 |       | 1        |      |
 |       | 1        |      |
@@ -119,6 +137,9 @@ meeting the ac exactly will result in a critical, either doubling damage, or mak
 |       | 1        |      |
 |       | 1        |      |
 |       | 2        |      |
+|       | 1        |      |
+|       | 1        |      |
+|       | 3        |      |
 
 
 
