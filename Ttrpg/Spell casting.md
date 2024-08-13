@@ -1,3 +1,5 @@
+#spellcasting
+
 The base of magic is called an evoker
 Whenever one is taught int he ways of magic, while there are different specializations, this is the standard
 Path
