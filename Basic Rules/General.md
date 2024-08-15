@@ -91,7 +91,7 @@ meeting the ac exactly will result in a critical, either doubling damage, or mak
 | 17    | 1        | 9    |
 | 19    | 2        | 10   |
 | 20    | 1        | 10   |
-| 21    | 1        | 21   |
+| 21    | 1        | 12   |
 | 24    | 3        | 12   |
 | 25    | 1        |      |
 | 26    | 1        |      |
