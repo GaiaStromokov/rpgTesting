@@ -4,9 +4,10 @@
 Muscle/Bodily power
 ![![Basic Rules/#*Table]]
 #### Dexterity
-Dodge/duck/dash
-#### Reflex
 Fine motor movements/bows/crits
+#### Reflex
+
+Dodge/duck/dash
 #### Intellect
 mental acuity and intellect
 #### Will
