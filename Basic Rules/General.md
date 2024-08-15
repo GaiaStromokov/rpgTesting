@@ -31,7 +31,6 @@ Proficiency in tasks
 
 Inherant stats are given the following scores at level 1
 
-+2, +1, 0, 0, -1, -2
 
 all character backstories will either add or subtract to this, no score can go below -5
 
